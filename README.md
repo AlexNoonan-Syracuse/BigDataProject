@@ -20,3 +20,6 @@ Economic Factors to include in ARIMA Forecasting
 10. VIX - Volatility -https://finance.yahoo.com/quote/DX-Y.NYB/history?period1=31795200&period2=1627948800&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true
 
 Sources: St.Louis Fed, US Treasury, Pitchbook
+
+
+ARIMA model forecasting:https://machinelearningmastery.com/make-sample-forecasts-arima-python/
